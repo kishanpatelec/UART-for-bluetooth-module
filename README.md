@@ -1,1 +1,1 @@
-# UART protocol
+# UART for bluetooth module
